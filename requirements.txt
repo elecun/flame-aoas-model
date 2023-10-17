@@ -1,0 +1,9 @@
+--index-url https://download.pytorch.org/whl/cpu
+torch
+--index-url https://download.pytorch.org/whl/cpu
+torchvision
+matplotlib
+numpy
+pillow
+moviepy
+opencv-python
